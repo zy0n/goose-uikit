@@ -2880,7 +2880,7 @@ var light$5 = {
 };
 var dark$5 = {
     background: darkColors.nav,
-    hover: "#436122",
+    hover: "#473d5d",
 };
 
 var light$6 = {
