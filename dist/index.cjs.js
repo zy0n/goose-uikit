@@ -2892,7 +2892,7 @@ var light$5 = {
     hover: "#EEEAF4",
 };
 var dark$5 = {
-    background: darkColors.card,
+    background: darkColors.nav,
     hover: "#473d5d",
 };
 
