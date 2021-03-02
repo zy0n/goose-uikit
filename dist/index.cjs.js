@@ -2748,7 +2748,7 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#795548",
+    primary: "#aa8929",
     primaryBright: "#795548",
     primaryDark: "#aa8929",
     secondary: "#795548",
