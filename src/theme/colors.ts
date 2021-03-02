@@ -28,6 +28,8 @@ export const lightColors: Colors = {
   textSubtle: "#000000",
   borderColor: "#E9EAEB",
   card: "#FFFFFF",
+  modal: "#fffaf0",
+  nav: "#deb887",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
   },

@@ -2875,7 +2875,7 @@ var dark$4 = {
 };
 
 var light$5 = {
-    background: lightColors.card,
+    background: lightColors.nav,
     hover: "#EEEAF4",
 };
 var dark$5 = {
@@ -2884,7 +2884,7 @@ var dark$5 = {
 };
 
 var light$6 = {
-    background: lightColors.card,
+    background: lightColors.modal,
 };
 var dark$6 = {
     background: darkColors.card,
