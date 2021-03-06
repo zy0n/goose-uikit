@@ -8,7 +8,7 @@ export const light: CardTheme = {
   boxShadowActive: shadows.active,
   boxShadowSuccess: shadows.success,
   boxShadowWarning: shadows.warning,
-  cardHeaderBackground: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
+  cardHeaderBackground: "linear-gradient(111.68deg, #F2ECF2 0%, #003400 100%)",
 };
 
 export const dark: CardTheme = {
