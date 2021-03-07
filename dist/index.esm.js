@@ -2739,7 +2739,7 @@ var baseColors = {
     primaryBright: "#31D0AA",
     primaryDark: "#E0115F",
     secondary: "#9B111E",
-    success: "#31D0AA",
+    success: "#84DE02",
     warning: "#FFB237",
 };
 var brandColors = {
